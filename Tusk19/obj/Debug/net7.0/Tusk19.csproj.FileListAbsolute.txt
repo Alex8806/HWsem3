@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\Tusk19.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\Tusk19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\Tusk19.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\Tusk19.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\Tusk19.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\bin\Debug\net7.0\Tusk19.exe
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\bin\Debug\net7.0\Tusk19.deps.json
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\bin\Debug\net7.0\Tusk19.runtimeconfig.json
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\bin\Debug\net7.0\Tusk19.dll
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\bin\Debug\net7.0\Tusk19.pdb
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\Tusk19.dll
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\refint\Tusk19.dll
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\Tusk19.pdb
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\Tusk19.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\homework\HWSem3\Tusk19\obj\Debug\net7.0\ref\Tusk19.dll
